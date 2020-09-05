@@ -1,0 +1,20 @@
+body{
+	background-color: greenyellow
+}
+h1{
+	font-size: 65px;
+	color: salmon;
+}
+h2{
+	font-size: 45px;
+	color: hotpink;
+}
+h1 span{
+	color: purple
+	}
+span{
+	color:indigo 
+}
+.a{font-size: 65px}
+.uc{text-transform: uppercase}
+.a.uc{color: navy;}
